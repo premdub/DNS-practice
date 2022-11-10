@@ -9,10 +9,14 @@ HHA504_assignment8
 4. Create a A record that links together the domain with the IP address of your flask app deployed on either GCP or Azure 
 
 5. Create a markdown/readme file that contains the following information: 
-The name of your purchased domain 
-A copy of the 'A' record settings that you needed to write (name, value, TTL) 
-The cloud vendor you selected 
-Brief instructions if something were to want to re-recreate your app on their own cloud VM 
+-The name of your purchased domain :
+
+-A copy of the 'A' record settings that you needed to write (name, value, TTL) :
+
+-The cloud vendor you selected 
+
+-Brief instructions if something were to want to re-recreate your app on their own cloud VM 
+
 6. A "/photos" folder that contains screen shots of your live flask application deployed on your website 
 
 7. Once completed, please feel free to shut down the instance/VM to save money - UNLESS you want to keep it live (e.g., maybe your are creating a personal CV website to show off your new skills....)
