@@ -1,7 +1,7 @@
 # DNS-practice
 HHA504_assignment 8
 
-   1 a new github repo called 'DNS practice' 
+       1 a new github repo called 'DNS practice' 
    
 
 2. Create a markdown/readme file that contains the following information: 
@@ -23,7 +23,7 @@ HHA504_assignment 8
       
        GCP
        
-
+------------------------------------------------------------------
       -Brief instructions if re-recreate app needed:
       
 
@@ -45,7 +45,7 @@ HHA504_assignment 8
       
       Locate the flask app file and connect to it
       
-
+      ---------------------------------------------------------------------------------
       Commands used in vm (GCP) terminal :
       
 
