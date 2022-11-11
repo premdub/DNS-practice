@@ -1,7 +1,7 @@
 # DNS-practice
 HHA504_assignment 8
 
-1 a new github repo called 'DNS practice' 
+   1 a new github repo called 'DNS practice' 
 
 2. Create a markdown/readme file that contains the following information: 
      -The name of your purchased domain :  
