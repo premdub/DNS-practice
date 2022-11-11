@@ -49,11 +49,18 @@ HHA504_assignment 8
   Commands used in VM (GCP) terminal:
   
   Sudo apt-get update
+  
   sudo apt install python3-pip
+  
   sudo apt install python3-flask
+  
   git clone "git repo link"
+  
   sudo python3 "file_name.py"
+  
   to update py file, use command---> "nano file_name.py"
+  
   Go back to the website (**.tech)
+  
 
   
