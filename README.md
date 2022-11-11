@@ -20,10 +20,10 @@ HHA504_assignment 8
       TTL: 7200
       
 
-      -The cloud vendor you selected:
+      -The cloud vendor you selected:   
       
-       GCP
-       
+         GCP
+      
 ------------------------------------------------------------------
       -Brief instructions if re-recreate app needed:
       
