@@ -28,16 +28,24 @@ HHA504_assignment 8
   -Brief instructions if re-recreate app needed:
   
   Create own VM and copy the IP address
+  
   Create own domain name ( file name.tech)
+  
   Under "manage orders" - "list/search orders', find domain name and click on it
+  
   Go to "DNS Management' and click "Manage DNS"
+  
   Under "A Records", click "Add A Record"
+  
   Put VM IP address under "Value"
+  
   Set Own TLI (minimum 7200)
+  
   Return to VM terminal and connect to git repo
+  
   Locate he flask app file and connect to it
   
-  
+  --------------------------------------------------------------------------------
   Commands used in VM (GCP) terminal:
   
   Sudo apt-get update
