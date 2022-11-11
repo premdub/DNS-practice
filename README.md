@@ -46,7 +46,7 @@ HHA504_assignment 8
   Locate he flask app file and connect to it
   
   --------------------------------------------------------------------------------
-  Commands used in VM (GCP) terminal:
+  -Commands used in VM (GCP) terminal:
   
   Sudo apt-get update
   
