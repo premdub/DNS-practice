@@ -23,7 +23,7 @@ HHA504_assignment 8
       -The cloud vendor you selected:  
       GCP  
       
-      
+      ------------------------------------------------
       
   -Brief instructions if re-recreate app needed:
   
